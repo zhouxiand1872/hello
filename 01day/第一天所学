@@ -1,0 +1,14 @@
+历史记录     historg
+清屏       clear
+创建文件夹    mkdir
+创建文件      touch
+编辑文件       gedit
+查看文件            cat
+删除文件夹          rmdir
+删除文件           rm
+回到初始目录        cd   cd ~
+切换到当前目录      cd .
+后退              cd ..
+返回上次所在目录   cd -
+显示目录下所有文件   ls
+开火车 sudo apt install sl  启动 sl
