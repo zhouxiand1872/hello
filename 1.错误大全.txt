@@ -1,0 +1,6 @@
+不能输入数字后 加引号和中文
+ File "/home/zhouxiu/桌面/1803/06day/01.txt", line 6
+    weight = 60"公斤"
+                  ^
+SyntaxError: invalid syntax
+

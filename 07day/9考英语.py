@@ -1,8 +1,8 @@
 import random
 import time
-list=["薛栋炎","刘瑞涛","娄雪曼","张轩轩","尹天"]
+list=["薛栋炎","刘瑞涛","崔健","张世豪","李鑫","翟宏乐","周肸","韩跃锐"]
 print("班级总人数:%d"%len(list))
-print("正在合理计算中\n")
+print("上帝正在挑选天选之子\n")
 time.sleep(3)
 i = random.randint(0,len(list)-1)
 print("呦，你被上帝选中了:------%s"%list[i])
